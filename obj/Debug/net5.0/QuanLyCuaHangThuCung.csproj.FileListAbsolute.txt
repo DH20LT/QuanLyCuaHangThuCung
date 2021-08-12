@@ -1,0 +1,16 @@
+D:\OneDrive\Project\Programming Project\C-Sharp\QuanLyCuaHangThuCung\bin\Debug\net5.0\QuanLyCuaHangThuCung.exe
+D:\OneDrive\Project\Programming Project\C-Sharp\QuanLyCuaHangThuCung\bin\Debug\net5.0\QuanLyCuaHangThuCung.deps.json
+D:\OneDrive\Project\Programming Project\C-Sharp\QuanLyCuaHangThuCung\bin\Debug\net5.0\QuanLyCuaHangThuCung.runtimeconfig.json
+D:\OneDrive\Project\Programming Project\C-Sharp\QuanLyCuaHangThuCung\bin\Debug\net5.0\QuanLyCuaHangThuCung.runtimeconfig.dev.json
+D:\OneDrive\Project\Programming Project\C-Sharp\QuanLyCuaHangThuCung\bin\Debug\net5.0\QuanLyCuaHangThuCung.dll
+D:\OneDrive\Project\Programming Project\C-Sharp\QuanLyCuaHangThuCung\bin\Debug\net5.0\ref\QuanLyCuaHangThuCung.dll
+D:\OneDrive\Project\Programming Project\C-Sharp\QuanLyCuaHangThuCung\bin\Debug\net5.0\QuanLyCuaHangThuCung.pdb
+D:\OneDrive\Project\Programming Project\C-Sharp\QuanLyCuaHangThuCung\obj\Debug\net5.0\QuanLyCuaHangThuCung.csproj.AssemblyReference.cache
+D:\OneDrive\Project\Programming Project\C-Sharp\QuanLyCuaHangThuCung\obj\Debug\net5.0\QuanLyCuaHangThuCung.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Project\Programming Project\C-Sharp\QuanLyCuaHangThuCung\obj\Debug\net5.0\QuanLyCuaHangThuCung.AssemblyInfoInputs.cache
+D:\OneDrive\Project\Programming Project\C-Sharp\QuanLyCuaHangThuCung\obj\Debug\net5.0\QuanLyCuaHangThuCung.AssemblyInfo.cs
+D:\OneDrive\Project\Programming Project\C-Sharp\QuanLyCuaHangThuCung\obj\Debug\net5.0\QuanLyCuaHangThuCung.csproj.CoreCompileInputs.cache
+D:\OneDrive\Project\Programming Project\C-Sharp\QuanLyCuaHangThuCung\obj\Debug\net5.0\QuanLyCuaHangThuCung.dll
+D:\OneDrive\Project\Programming Project\C-Sharp\QuanLyCuaHangThuCung\obj\Debug\net5.0\ref\QuanLyCuaHangThuCung.dll
+D:\OneDrive\Project\Programming Project\C-Sharp\QuanLyCuaHangThuCung\obj\Debug\net5.0\QuanLyCuaHangThuCung.pdb
+D:\OneDrive\Project\Programming Project\C-Sharp\QuanLyCuaHangThuCung\obj\Debug\net5.0\QuanLyCuaHangThuCung.genruntimeconfig.cache
