@@ -2,8 +2,10 @@
 
 namespace QuanLyCuaHangThuCung
 {
-    abstract class Thu
+    abstract class Thu : ICloneable
     {
+        
+
         int maThu, loaiThu, donGia;
         string tenThu, nguonGoc;
         int SoLuong;
@@ -27,12 +29,16 @@ namespace QuanLyCuaHangThuCung
         {
             Console.WriteLine("Nhap Ma Thu: ");
             maThu = int.Parse(Console.ReadLine());
+
             Console.WriteLine("Nhap Ten Thu: ");
             tenThu = Console.ReadLine();
+
             Console.WriteLine("Nhap Nguon Goc: ");
             nguonGoc = Console.ReadLine();
+
             Console.WriteLine("Nhap Don gia");
             donGia = int.Parse(Console.ReadLine());
+
             Console.WriteLine("Nhaop So Luong");
             SoLuong = int.Parse(Console.ReadLine());
         } //Nhap Cac Thuoc Tinh
@@ -46,5 +52,10 @@ namespace QuanLyCuaHangThuCung
         } //Xuat Cac Thuoc Tinh
         public abstract void tiengKeu();
         public abstract void thucAn();
+
+        public object Clone()
+        {
+            return this.MemberwiseClone();
+        }
     }
 }

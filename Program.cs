@@ -10,7 +10,7 @@ namespace QuanLyCuaHangThuCung
             Thu[] arrThu = new Thu[50];
             
             int iChucNang;
-            
+            int iThuSoLuong = 0;
             do
             {
                 Console.WriteLine("1. Create a Cat object");
@@ -29,7 +29,7 @@ namespace QuanLyCuaHangThuCung
                 iChucNang = int.Parse(Console.ReadLine());
                 if (iChucNang >= 13 || iChucNang <= 0)
                     Console.WriteLine("Wrong Function, Try Again!");
-                ChucNang.Play(iChucNang, arrThu);
+                ChucNang.Play(iChucNang, arrThu, ref iThuSoLuong);
             } while (iChucNang < 12);
         }
         
