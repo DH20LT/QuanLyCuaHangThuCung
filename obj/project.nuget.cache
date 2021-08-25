@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "og25j3rcWVWx7XChpFaPdyLwiwGA/V9lAhn24fFIizXrwMz8AlNAfR6h7X9gz1JumWJeox1LiQKwmpU0bpIZOg==",
+  "dgSpecHash": "sGrMsYVatiCZXZNeyJZdqc3YCjpDEQsXRy9sIbNfOhfQd34Pwmd6S6IQ7io4RgolOkX2Kq1vfuYRfHOCOp6rhQ==",
   "success": true,
-  "projectFilePath": "D:\\OneDrive\\Project\\Programming Project\\C-Sharp\\QuanLyCuaHangThuCung\\QuanLyCuaHangThuCung.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\GitHub\\SendToTeacher\\QuanLyCuaHangThuCung\\QuanLyCuaHangThuCung.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\taqua\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.8\\microsoft.netcore.app.host.win-x64.5.0.8.nupkg.sha512"
+  ],
   "logs": []
 }

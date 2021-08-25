@@ -14,3 +14,19 @@ D:\OneDrive\Project\Programming Project\C-Sharp\QuanLyCuaHangThuCung\obj\Debug\n
 D:\OneDrive\Project\Programming Project\C-Sharp\QuanLyCuaHangThuCung\obj\Debug\net5.0\ref\QuanLyCuaHangThuCung.dll
 D:\OneDrive\Project\Programming Project\C-Sharp\QuanLyCuaHangThuCung\obj\Debug\net5.0\QuanLyCuaHangThuCung.pdb
 D:\OneDrive\Project\Programming Project\C-Sharp\QuanLyCuaHangThuCung\obj\Debug\net5.0\QuanLyCuaHangThuCung.genruntimeconfig.cache
+D:\GitHub\SendToTeacher\QuanLyCuaHangThuCung\bin\Debug\net5.0\QuanLyCuaHangThuCung.exe
+D:\GitHub\SendToTeacher\QuanLyCuaHangThuCung\bin\Debug\net5.0\QuanLyCuaHangThuCung.deps.json
+D:\GitHub\SendToTeacher\QuanLyCuaHangThuCung\bin\Debug\net5.0\QuanLyCuaHangThuCung.runtimeconfig.json
+D:\GitHub\SendToTeacher\QuanLyCuaHangThuCung\bin\Debug\net5.0\QuanLyCuaHangThuCung.runtimeconfig.dev.json
+D:\GitHub\SendToTeacher\QuanLyCuaHangThuCung\bin\Debug\net5.0\QuanLyCuaHangThuCung.dll
+D:\GitHub\SendToTeacher\QuanLyCuaHangThuCung\bin\Debug\net5.0\ref\QuanLyCuaHangThuCung.dll
+D:\GitHub\SendToTeacher\QuanLyCuaHangThuCung\bin\Debug\net5.0\QuanLyCuaHangThuCung.pdb
+D:\GitHub\SendToTeacher\QuanLyCuaHangThuCung\obj\Debug\net5.0\QuanLyCuaHangThuCung.csproj.AssemblyReference.cache
+D:\GitHub\SendToTeacher\QuanLyCuaHangThuCung\obj\Debug\net5.0\QuanLyCuaHangThuCung.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SendToTeacher\QuanLyCuaHangThuCung\obj\Debug\net5.0\QuanLyCuaHangThuCung.AssemblyInfoInputs.cache
+D:\GitHub\SendToTeacher\QuanLyCuaHangThuCung\obj\Debug\net5.0\QuanLyCuaHangThuCung.AssemblyInfo.cs
+D:\GitHub\SendToTeacher\QuanLyCuaHangThuCung\obj\Debug\net5.0\QuanLyCuaHangThuCung.csproj.CoreCompileInputs.cache
+D:\GitHub\SendToTeacher\QuanLyCuaHangThuCung\obj\Debug\net5.0\QuanLyCuaHangThuCung.dll
+D:\GitHub\SendToTeacher\QuanLyCuaHangThuCung\obj\Debug\net5.0\ref\QuanLyCuaHangThuCung.dll
+D:\GitHub\SendToTeacher\QuanLyCuaHangThuCung\obj\Debug\net5.0\QuanLyCuaHangThuCung.pdb
+D:\GitHub\SendToTeacher\QuanLyCuaHangThuCung\obj\Debug\net5.0\QuanLyCuaHangThuCung.genruntimeconfig.cache
